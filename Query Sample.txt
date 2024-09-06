@@ -1,0 +1,2 @@
+SELECT * FROM Books;
+SELECT * FROM Loans WHERE ReturnDate IS NULL;
